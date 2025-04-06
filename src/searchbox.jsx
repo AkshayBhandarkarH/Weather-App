@@ -64,7 +64,7 @@ function Searchbox() {
   return (
     <div>
       <div className="searchbox">
-        <h3 className="py-4">Weatherix</h3>
+        <h3 className="py-4 fs-4 ">Live Weather App</h3>
         <div className="d-flex justify-content-center align-items-center ">
           <div>
             <form onSubmit={handleSubmit} className="bg-success p-2 rounded">
